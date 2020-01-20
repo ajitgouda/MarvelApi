@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24781" started-at="2020-01-20T17:12:59Z" finished-at="2020-01-20T17:13:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24781" started-at="2020-01-20T17:12:59Z" finished-at="2020-01-20T17:13:23Z">
+      <class name="MarvelApi.com.marvel.api.marvelApiTesting">
+        <test-method status="PASS" signature="getCharactersWithDescription()[pri:0, instance:MarvelApi.com.marvel.api.marvelApiTesting@198b6731]" name="getCharactersWithDescription" duration-ms="18392" started-at="2020-01-20T17:12:59Z" finished-at="2020-01-20T17:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCharactersWithDescription -->
+        <test-method status="PASS" signature="getCharactersListFromSeriesId()[pri:1, instance:MarvelApi.com.marvel.api.marvelApiTesting@198b6731]" name="getCharactersListFromSeriesId" duration-ms="4354" started-at="2020-01-20T17:13:17Z" finished-at="2020-01-20T17:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCharactersListFromSeriesId -->
+        <test-method status="PASS" signature="storieshavingCharactersWithoutDescription()[pri:2, instance:MarvelApi.com.marvel.api.marvelApiTesting@198b6731]" name="storieshavingCharactersWithoutDescription" duration-ms="1988" started-at="2020-01-20T17:13:21Z" finished-at="2020-01-20T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storieshavingCharactersWithoutDescription -->
+      </class> <!-- MarvelApi.com.marvel.api.marvelApiTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
